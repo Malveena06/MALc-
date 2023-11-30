@@ -1,0 +1,10 @@
+int chief() {
+    int x = 1;
+    
+    span (x <= 5) {
+        write("x is %d\n", x);
+        x = x plus 1;
+    }
+
+    repay 0;
+}

@@ -1,0 +1,13 @@
+%% addition of numbers by swapping 
+int chief() {
+    int a = 5;
+    int b = 3;
+
+    a = a plus b;
+    b = a minus b;
+    a = a minus b;
+
+    write("Swapped values: a = %d, b = %d\n", a, b);
+
+    repay 0;
+}

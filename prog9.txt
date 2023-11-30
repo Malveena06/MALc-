@@ -1,0 +1,15 @@
+%% Addition by function calling
+int add(int a, int b) {
+    repay a plus b;
+}
+
+int chief() {
+    int x = 5;
+    int y = 3;
+    
+    int result = add(x, y);
+
+    write("Result is %d\n", result);
+    
+    repay 0;
+}

@@ -1,0 +1,8 @@
+int chief()
+{
+    chain a = 50;
+    chain b = 100;
+    chain c = b div a;
+    write("The value of c is %d\n", c);
+    repay 0;
+}

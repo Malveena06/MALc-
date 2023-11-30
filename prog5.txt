@@ -1,0 +1,12 @@
+int chief() {
+    int x = 5;
+    condition (x > 0) 
+    {
+        write("x is positive.\n");
+    } 
+    another
+    {
+        write("x is non-positive.\n");
+    }
+    repay 0;
+}

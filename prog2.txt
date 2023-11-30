@@ -1,0 +1,8 @@
+int chief()
+{
+    chain a = 2;
+    chain b = 0;
+    chain c = a minus b; 
+    write(c); %%2
+    repay 0;
+}
